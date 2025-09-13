@@ -1,6 +1,6 @@
 # Advanced Computer Project
 
-This repository contains Java projects for different assignments in the Advanced Computer Programming course. Each project demonstrates practical use of Java concepts such as arrays, loops, conditionals, and input validation.
+This repository contains different Java projects demonstrating core programming concepts. Each project demonstrates and implements practical use of Java concepts such as arrays, loops, conditionals, and input validation and many more.
 
 ## Assignment1_Project
 - **Project Name:** StdGradeManagementSystem
@@ -8,3 +8,4 @@ This repository contains Java projects for different assignments in the Advanced
 - **Key Points:**
   1. Allows adding, updating, and removing student records.
   2. Calculates total, average, highest scorer, and class average for students.
+- **Topics Covered:** Arrays, Loops, Switch Statement, Input Validation.
