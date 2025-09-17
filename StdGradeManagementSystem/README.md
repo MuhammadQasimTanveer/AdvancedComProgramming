@@ -4,7 +4,6 @@ Console-based Java application developed as the first assignment, enabling users
 
 ## Features
 
-### Main Functionalities
 1. **Add Student** - Add new student with unique IDs, names, and marks for 3 subjects
 2. **Update Marks** - Update existing student marks for any subject
 3. **Remove Student** - Delete student records from the system
@@ -58,7 +57,7 @@ Enter Marks in Subject 3: 78
 Student added successfully!
 ```
 
-### Limitations
+## Limitations
 - **Array Size Limit**: Supports up to 50 students only 
 - **Fixed Subject Count**: Exactly 3 subjects per student
 - **Console Based Interface Only**: No GUI
