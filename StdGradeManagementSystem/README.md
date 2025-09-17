@@ -1,7 +1,6 @@
 # Student Grade Management System
 
-## Overview
-This is a console-based Java application developed as the 1st assignment that allows users to manage student records including their IDs, names, and marks for three subjects.
+Console-based Java application developed as the 1st assignment that allows users to manage student records including their IDs, names, and marks for three subjects.
 
 ## Features
 
@@ -17,7 +16,6 @@ This is a console-based Java application developed as the 1st assignment that al
 ### Data Validation
 - Student IDs must be unique
 - Marks must be within the range of 0-100
-- Prevents duplicate student entries
 - Input validation for menu choices and subject numbers
 
 ## Technical Specifications
@@ -26,7 +24,6 @@ This is a console-based Java application developed as the 1st assignment that al
 - **Maximum Students**: 50
 - **Subjects per Student**: 3 (fixed)
 - **Mark Range**: 0-100
-- **Data Storage**: Arrays (in-memory, non-persistent)
 
 ### Data Structures Used
 - `String[] studentName` - Stores student names
@@ -49,7 +46,6 @@ java
 ```
 
 ## Sample Usage
-
 ```
 Welcome to Student Grade Management System
 
@@ -69,11 +65,9 @@ Enter students's name: Muhammad Qasim
 Enter marks for subject 1 (0–100): 85
 Enter marks for subject 2 (0–100): 92
 Enter marks for subject 3 (0–100): 78
+```
 
-
-## Limitations
-
-### Current Constraints
+### Limitations
 - **No Data Persistence**: All data is lost when the program terminates
 - **Fixed Subject Count**: Limited to exactly 3 subjects
 - **Array Size Limit**: Maximum of 50 students
@@ -81,4 +75,4 @@ Enter marks for subject 3 (0–100): 78
 - **Console Interface Only**: No graphical user interface
 
 ---
-*This project serves as a foundation for understanding console-based application development and data management in Java.*
+*This project serves as a foundation for understanding console-based application development in Java.*
