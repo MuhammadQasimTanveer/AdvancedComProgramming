@@ -39,32 +39,32 @@ Console-based Java application developed as the 1st assignment that allows users
 ### Compilation and Execution
 ```bash
 # Compile the program
-javac .java
+javac StdGradeManagementSystem .java
 
 # Run the program
-java 
+java StdGradeManagementSystem 
 ```
 
-## Sample Usage
+## Sample Output
 ```
 Welcome to Student Grade Management System
 
-1. Add Student.
-2. Update Marks.
-3. Remove Student.
-4. View All Students.
-5. Search Student by Id.
-6. Highest Scorer.
-7. Class Average.
+1. Add Student
+2. Update Marks
+3. Remove Student
+4. View All Students
+5. Search Student
+6. Highest Scorer
+7. Class Average
 8. Exit
 
-Enter your choice: 1
-
-Enter student's Id: 20
-Enter students's name: Muhammad Qasim
-Enter marks for subject 1 (0–100): 85
-Enter marks for subject 2 (0–100): 92
-Enter marks for subject 3 (0–100): 78
+Choose an option: 1
+Enter Roll No: 20
+Enter Name: Muhammad Qasim
+Enter Marks in Subject 1: 80
+Enter Marks in Subject 2: 70
+Enter Marks in Subject 3: 78
+Student added successfully!
 ```
 
 ### Limitations
