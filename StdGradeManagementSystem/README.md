@@ -1,7 +1,5 @@
 # Student Grade Management System
-
 Console-based Java application developed as the first assignment, enabling users to manage student records, including student IDs, names, and marks for three subjects.
----
 
 ## Features
 
