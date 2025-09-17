@@ -28,11 +28,6 @@ Console-based Java application developed as the first assignment, enabling users
 - `int n` - Tracks current number of students
 
 ## How to Run
-
-### Prerequisites
-- JDK 8 or higher or command line
-
-### Compilation and Execution
 ```bash
 # Compile the program
 javac StdGradeManagementSystem .java
