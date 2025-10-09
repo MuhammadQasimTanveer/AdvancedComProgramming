@@ -20,7 +20,7 @@ Console-based Java application designed to manage employees’ payroll, calculat
 
 **PermanentEmployee (Subclass)**  
 - Extends `Employee` and includes a `bonus` attribute.  
-- Implements tax calculation (10% of salary + bonus) and net salary computation.  
+- Implements tax calculation (10% of salary + bonus) and net salary computation.
 
 **ContractEmployee (Subclass)**  
 - Extends `Employee` and includes `contractDuration`.  
