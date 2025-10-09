@@ -53,3 +53,23 @@ javac *.java
 
 # Run the main program
 java EmpPayrollManagementSystem
+
+## Sample Output
+```
+--- Employee Payroll Management System ---
+1. Add Employee
+2. View All Employees
+3. Search Employee
+4. Highest Net Salary
+5. Average Salary
+6. Generate Payslip
+7. Exit
+
+Choose an option: 3
+Enter Employee ID: 54321
+ID         Name       Type         Salary       Bonus/Duration   Tax          Net Salary  
+----------------------------------------------------------------------------------------
+54321      Ali        Contract     52000.00     12               2600.00      49400.00    
+----------------------------------------------------------------------------------------
+```
+
