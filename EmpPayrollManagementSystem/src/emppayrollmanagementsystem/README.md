@@ -55,7 +55,7 @@ javac *.java
 java EmpPayrollManagementSystem
 
 ## Sample Output
-```
+```bash
 --- Employee Payroll Management System ---
 1. Add Employee
 2. View All Employees
