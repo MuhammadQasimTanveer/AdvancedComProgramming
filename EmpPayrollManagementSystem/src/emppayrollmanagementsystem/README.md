@@ -53,6 +53,7 @@ javac *.java
 
 # Run the main program
 java EmpPayrollManagementSystem
+```
 
 ## Sample Output
 ```bash
